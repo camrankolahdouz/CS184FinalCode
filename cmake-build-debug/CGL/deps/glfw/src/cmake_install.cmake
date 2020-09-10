@@ -1,4 +1,4 @@
-# Install script for directory: /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/CGL/deps/glfw/src
+# Install script for directory: /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/CGL/deps/glfw/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,10 +33,10 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw/src/libglfw3.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw/src/libglfw3.a")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libglfw3.a" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libglfw3.a")
-    execute_process(COMMAND "/Library/Developer/CommandLineTools/usr/bin/ranlib" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libglfw3.a")
+    execute_process(COMMAND "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libglfw3.a")
   endif()
 endif()
 

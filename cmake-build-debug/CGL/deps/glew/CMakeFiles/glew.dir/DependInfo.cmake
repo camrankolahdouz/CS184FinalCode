@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/CGL/deps/glew/src/glew.c" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glew/CMakeFiles/glew.dir/src/glew.c.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/CGL/deps/glew/src/glewinfo.c" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glew/CMakeFiles/glew.dir/src/glewinfo.c.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/CGL/deps/glew/src/visualinfo.c" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glew/CMakeFiles/glew.dir/src/visualinfo.c.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/CGL/deps/glew/src/glew.c" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glew/CMakeFiles/glew.dir/src/glew.c.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/CGL/deps/glew/src/glewinfo.c" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glew/CMakeFiles/glew.dir/src/glewinfo.c.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/CGL/deps/glew/src/visualinfo.c" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glew/CMakeFiles/glew.dir/src/visualinfo.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

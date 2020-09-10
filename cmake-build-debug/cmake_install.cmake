@@ -1,8 +1,8 @@
-# Install script for directory: /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz
+# Install script for directory: /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/")
+  set(CMAKE_INSTALL_PREFIX "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/cmake_install.cmake")
+  include("/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

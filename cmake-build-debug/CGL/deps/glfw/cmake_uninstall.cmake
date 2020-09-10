@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw/install_manifest.txt")
-    message(FATAL_ERROR "Cannot find install manifest: \"/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw/install_manifest.txt\"")
+if (NOT EXISTS "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw/install_manifest.txt\"")
 endif()
 
-file(READ "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw/install_manifest.txt" files)
+file(READ "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})

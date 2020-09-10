@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz
+CMAKE_SOURCE_DIR = /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug
 
 # Utility rule file for uninstall.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-c
 include CGL/deps/glfw/CMakeFiles/uninstall.dir/progress.make
 
 CGL/deps/glfw/CMakeFiles/uninstall:
-	cd /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -P /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw/cmake_uninstall.cmake
+	cd /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -P /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw/cmake_uninstall.cmake
 
 uninstall: CGL/deps/glfw/CMakeFiles/uninstall
 uninstall: CGL/deps/glfw/CMakeFiles/uninstall.dir/build.make
@@ -67,10 +67,10 @@ CGL/deps/glfw/CMakeFiles/uninstall.dir/build: uninstall
 .PHONY : CGL/deps/glfw/CMakeFiles/uninstall.dir/build
 
 CGL/deps/glfw/CMakeFiles/uninstall.dir/clean:
-	cd /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
+	cd /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
 .PHONY : CGL/deps/glfw/CMakeFiles/uninstall.dir/clean
 
 CGL/deps/glfw/CMakeFiles/uninstall.dir/depend:
-	cd /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/CGL/deps/glfw /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw /Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/CGL/deps/glfw /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw /Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CGL/deps/glfw/CMakeFiles/uninstall.dir/depend
 

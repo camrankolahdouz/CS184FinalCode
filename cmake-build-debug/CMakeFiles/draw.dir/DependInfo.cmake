@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/src/drawrend.cpp" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CMakeFiles/draw.dir/src/drawrend.cpp.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/src/main.cpp" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CMakeFiles/draw.dir/src/main.cpp.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/src/rasterizer.cpp" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CMakeFiles/draw.dir/src/rasterizer.cpp.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/src/svg.cpp" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CMakeFiles/draw.dir/src/svg.cpp.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/src/svgparser.cpp" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CMakeFiles/draw.dir/src/svgparser.cpp.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/src/texture.cpp" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CMakeFiles/draw.dir/src/texture.cpp.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/src/transforms.cpp" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CMakeFiles/draw.dir/src/transforms.cpp.o"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/src/triangulation.cpp" "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CMakeFiles/draw.dir/src/triangulation.cpp.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/src/drawrend.cpp" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CMakeFiles/draw.dir/src/drawrend.cpp.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/src/main.cpp" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CMakeFiles/draw.dir/src/main.cpp.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/src/rasterizer.cpp" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CMakeFiles/draw.dir/src/rasterizer.cpp.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/src/svg.cpp" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CMakeFiles/draw.dir/src/svg.cpp.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/src/svgparser.cpp" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CMakeFiles/draw.dir/src/svgparser.cpp.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/src/texture.cpp" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CMakeFiles/draw.dir/src/texture.cpp.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/src/transforms.cpp" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CMakeFiles/draw.dir/src/transforms.cpp.o"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/src/triangulation.cpp" "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CMakeFiles/draw.dir/src/triangulation.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
@@ -21,14 +21,14 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../CGL/include/CGL"
   "../CGL/deps/glew/include"
   "../CGL/deps/glfw/include"
-  "/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/OpenGL.framework"
+  "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/CMakeFiles/CGL.dir/DependInfo.cmake"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glew/CMakeFiles/glew.dir/DependInfo.cmake"
-  "/Users/camrankolahdouz/Desktop/cs184/hw1/p1-rasterizer-sp20-camrankolahdouz/cmake-build-debug/CGL/deps/glfw/src/CMakeFiles/glfw.dir/DependInfo.cmake"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/CMakeFiles/CGL.dir/DependInfo.cmake"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glew/CMakeFiles/glew.dir/DependInfo.cmake"
+  "/Users/camrankolahdouz/Desktop/cs184/FinalProjectCode/CS184FinalCode/cmake-build-debug/CGL/deps/glfw/src/CMakeFiles/glfw.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
